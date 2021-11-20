@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/johnnydutra/cypress-training#readme",
   "devDependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^9.0.0",
+    "cypress-xpath": "^1.6.2"
   }
 }
